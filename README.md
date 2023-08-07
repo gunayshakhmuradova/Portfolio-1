@@ -2,11 +2,11 @@
 <br><br>
 <b>This is a Portfolio for react.</b>
 <br><br>
-<img src="https://github.com/shzehra93/portfolio-meta-course/assets/126316477/b3f56b15-42fe-4a79-b16c-c7143362a536" alt="portfolio" width="480" height="240">
+<img src="https://github.com/shzehra93/Portfolio-Meta-course/assets/126316477/70bb9f37-b7a4-4aac-a348-6bda1fb38975" alt="portfolio1" width="480" height="240">
 <br> <br>
-<img src="https://github.com/shzehra93/portfolio-meta-course/assets/126316477/3124f8ea-cf07-438b-8f96-bf863d9b2848" alt="portfolio" width="480" height="240">
+<img src="https://github.com/shzehra93/portfolio-meta-course/assets/126316477/3124f8ea-cf07-438b-8f96-bf863d9b2848" alt="portfolio2" width="480" height="240">
 <br><br>
-<img src="https://github.com/shzehra93/portfolio-meta-course/assets/126316477/eecb9633-9290-460b-8cba-1d56e03e0568" alt="portfolio" width="480" height="240">
+<img src="https://github.com/shzehra93/portfolio-meta-course/assets/126316477/eecb9633-9290-460b-8cba-1d56e03e0568" alt="portfolio3" width="480" height="240">
 
 # Getting Started with Create React App
 
