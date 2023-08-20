@@ -1,6 +1,6 @@
 # Portfolio Meta Course
 <br><br>
-<b>This is a Portfolio for react.</b>
+<b>This is a "Portfolio website" for react.</b>
 <br><br>
 <img src="https://github.com/shzehra93/Portfolio-Meta-course/assets/126316477/70bb9f37-b7a4-4aac-a348-6bda1fb38975" alt="portfolio1" width="480" height="240">
 <br> <br>
